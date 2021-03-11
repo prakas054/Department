@@ -18,7 +18,7 @@ namespace DepartmentManagement.Controllers
         // GET: api/Department/5
         public string Get(int id)
         {
-            return "value";
+            return "myChange";
         }
 
         // POST: api/Department
